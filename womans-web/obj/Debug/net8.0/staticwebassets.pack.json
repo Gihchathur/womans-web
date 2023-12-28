@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Repo\\womans-web\\womans-web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\womans-web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\womans-web.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Repo\\womans-web\\womans-web\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Repo\\womans-web\\womans-web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Repo\\womans-web\\womans-web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Repo\\womans-web\\womans-web\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.womans-web.props",
+      "PackagePath": "build\\womans-web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.womans-web.props",
+      "PackagePath": "buildMultiTargeting\\womans-web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.womans-web.props",
+      "PackagePath": "buildTransitive\\womans-web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.womans-web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

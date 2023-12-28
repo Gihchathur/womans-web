@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\womans-web.props" />
+</Project>
